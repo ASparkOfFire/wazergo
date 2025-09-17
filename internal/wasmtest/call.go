@@ -3,9 +3,9 @@ package wasmtest
 import (
 	"context"
 
-	"github.com/stealthrocket/wazergo"
-	"github.com/stealthrocket/wazergo/types"
-	"github.com/tetratelabs/wazero/api"
+	"github.com/ASparkOfFire/wazergo"
+	"github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 func Call[R types.Param[R], T any](fn wazergo.Function[T], ctx context.Context, module api.Module, this T, args ...types.Result) (ret R) {

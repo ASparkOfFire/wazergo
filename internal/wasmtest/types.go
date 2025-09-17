@@ -3,9 +3,9 @@ package wasmtest
 import (
 	"io"
 
-	"github.com/stealthrocket/wazergo/types"
-	"github.com/stealthrocket/wazergo/wasm"
-	"github.com/tetratelabs/wazero/api"
+	"github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazergo/wasm"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 var malloc uint32

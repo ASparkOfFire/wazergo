@@ -11,8 +11,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/stealthrocket/wazergo/wasm"
-	"github.com/tetratelabs/wazero/api"
+	"github.com/ASparkOfFire/wazergo/wasm"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 // Value represents a field in a function signature, which may be a parameter

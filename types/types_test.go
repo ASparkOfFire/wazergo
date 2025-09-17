@@ -7,8 +7,8 @@ import (
 	"testing"
 	"unsafe"
 
-	. "github.com/stealthrocket/wazergo/types"
-	"github.com/tetratelabs/wazero/api"
+	. "github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 func TestLoadAndStoreValue(t *testing.T) {

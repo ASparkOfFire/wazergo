@@ -5,10 +5,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stealthrocket/wazergo"
-	. "github.com/stealthrocket/wazergo/types"
-	"github.com/tetratelabs/wazero"
-	"github.com/tetratelabs/wazero/api"
+	"github.com/ASparkOfFire/wazergo"
+	. "github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazero"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 var hostModule wazergo.HostModule[*hostInstance] = hostFunctions{

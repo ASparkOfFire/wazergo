@@ -7,11 +7,11 @@ import (
 	"strconv"
 	"testing"
 
-	. "github.com/stealthrocket/wazergo"
-	"github.com/stealthrocket/wazergo/internal/wasmtest"
-	. "github.com/stealthrocket/wazergo/types"
-	"github.com/stealthrocket/wazergo/wasm"
-	"github.com/tetratelabs/wazero/api"
+	. "github.com/ASparkOfFire/wazergo"
+	"github.com/ASparkOfFire/wazergo/internal/wasmtest"
+	. "github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazergo/wasm"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 type value[T any] ParamResult[T]

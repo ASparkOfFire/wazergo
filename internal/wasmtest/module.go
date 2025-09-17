@@ -1,8 +1,8 @@
 package wasmtest
 
 import (
-	"github.com/stealthrocket/wazergo"
-	"github.com/tetratelabs/wazero/api"
+	"github.com/ASparkOfFire/wazergo"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 // Module is an implementation of wazero's api.Module interface intended to be

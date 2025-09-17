@@ -3,8 +3,8 @@ package wazergo
 import (
 	"context"
 
-	. "github.com/stealthrocket/wazergo/types"
-	"github.com/tetratelabs/wazero/api"
+	. "github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 // Functions is a map type representing the collection of functions exported

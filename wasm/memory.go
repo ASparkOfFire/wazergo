@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/tetratelabs/wazero/api"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 // PageSize is the size of memory pages in WebAssembly programs (64 KiB).

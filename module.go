@@ -3,9 +3,9 @@ package wazergo
 import (
 	"context"
 
-	. "github.com/stealthrocket/wazergo/types"
-	"github.com/tetratelabs/wazero"
-	"github.com/tetratelabs/wazero/api"
+	. "github.com/ASparkOfFire/wazergo/types"
+	"github.com/ASparkOfFire/wazero"
+	"github.com/ASparkOfFire/wazero/api"
 )
 
 // Module is a type constraint used to validate that all module instances
